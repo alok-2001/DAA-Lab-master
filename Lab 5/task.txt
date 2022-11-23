@@ -1,0 +1,1 @@
+implement binary search in insertion sort (inner loop)
